@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hello, I am Dongkeon Nam
+As an experienced MERN stack developer and Web 3.0 enthusiast, I possess a passion for creating innovative solutions with Javascript. Through hands-on experience in building real-world projects, I have gained extensive expertise in utilizing MongoDB, ExpressJS, ReactJS, and NodeJS to develop fully functional web applications. Currently, I am expanding my skillset by leveraging NextJS to build secure and performant web applications.
+
+Tools and Technologies I use :
+Front end
+JavaScript HTML5 CSS3 TailwindCSS React NextJs Redux Material UI
+
+Back end
+NodeJS Express MongoDBFirebase
