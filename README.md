@@ -27,6 +27,7 @@ Languages I use :
 ![image](https://user-images.githubusercontent.com/119066606/232664092-a374978b-22cf-49bf-9250-66cba68bb80e.png)
 ![image](https://user-images.githubusercontent.com/119066606/232664108-de8cd115-7d9d-43a8-870f-5afcfe526788.png)
 
+
 Frameworks:
 
 
@@ -34,7 +35,7 @@ Frameworks:
 ![image](https://user-images.githubusercontent.com/119066606/232664148-fe7c1e4c-f9da-4f79-9a3b-ff428a461651.png)
 
 
-🌱 I’m currently learning:
+I’m currently learning:
 
 
 ![image](https://user-images.githubusercontent.com/119066606/232664607-4bc50bcd-7c36-4cab-b4fd-afd14810ecd8.png)
