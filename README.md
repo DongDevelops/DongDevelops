@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **DongDevelops/DongDevelops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,4 +35,6 @@ Frameworks:
 
 
 🌱 I’m currently learning:
-MERN stack
+
+
+![image](https://user-images.githubusercontent.com/119066606/232664607-4bc50bcd-7c36-4cab-b4fd-afd14810ecd8.png)
